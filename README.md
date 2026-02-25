@@ -1,1 +1,1 @@
-# js-hin
+# js-hindi
